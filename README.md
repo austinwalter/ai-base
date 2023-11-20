@@ -22,3 +22,12 @@ python3 -m venv .venv
 source .venv/bin/activate
 ```
 https://docs.python.org/3/tutorial/venv.html
+
+### Terraform
+
+```
+terraform init
+terraform plan
+terraform apply
+```
+
